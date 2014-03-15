@@ -29,6 +29,9 @@ Demo : http://socionity.iiit.ac.in/wikieducator/index.php/Graph_testing
 **Poll** is an extension that can be used to record user feedback on the wikipage.
 Users can see their own feedback given dynamically on the same page.
 
+To use this extension you need to login.
+Username : demo
+Password : demo123
 
 >Usage &lt;poll&gt;
 
