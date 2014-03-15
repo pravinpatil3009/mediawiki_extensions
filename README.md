@@ -12,8 +12,12 @@ Suggestions are welcomed :-)
 
 
 Graph is an extension that can be used to display visualizations of csv file.
-Currently the csv file upload option is not included and hard coded. Future work 
-will include file upload/destination option and more graph options.
+Currently the csv file upload option is not included and hard coded.
+
+Also only bar graph is included.You can scroll through the graph using right/left
+keyboard keys.
+
+Future work will include file upload/destination option and more graph options.
 
 Usage <graph>
 
